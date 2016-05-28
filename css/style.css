@@ -285,7 +285,7 @@ input {
 	padding-bottom: 8px;
 	padding-right: 16px;
 	height: 80px;
-	margin: 7px 0;
+	margin: 7px 3px;
 	text-align: left;
 	letter-spacing: 0;
 	background-color: #fbf6e8;
@@ -620,4 +620,4 @@ input {
 		height: 81px;
 	}
 }
-
+
