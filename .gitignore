@@ -1,0 +1,6 @@
+*.md
+source/
+node_modules/
+package.json
+npm-debug.log
+Gruntfile.js
